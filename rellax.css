@@ -1,0 +1,22 @@
+body{
+	background-color: #00D0BE;
+}
+
+.Lorem{
+	font-family: matteo semibold;
+	margin: 500px 200px 500px;
+}
+
+.contrary{
+	font-family: matteo semibold;
+	margin: 700px 200px 700px;
+}
+.rlx{
+	font-family: matteo;
+	font-size: 100px;
+	margin-left: 400px; 
+}
+img{
+	margin-left: 50px;
+	height: 200px;
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit Evaluation Version) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.591642in" height="3.32278in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 66.93 375.9"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#336666}
+    .fil3 {fill:#B3F1EC}
+    .fil1 {fill:#E0FAF8}
+    .fil4 {fill:#61E6CD;fill-rule:nonzero}
+    .fil2 {fill:#B3F1EC;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="13.64,309.92 13.64,326.99 5.8,322.46 0.52,319.41 0.52,309.92 "/>
+ </g>
+ <g id="Layer_x0020_1_0">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <polygon class="fil1" points="39.63,371.59 34.6,368.68 34.6,351.43 39.63,354.34 47.1,358.65 47.1,375.9 "/>
+  <polygon class="fil2" points="66.93,281.33 66.93,294.23 44.59,281.33 "/>
+  <path class="fil3" d="M57.58 288.22c0.08,0 0.16,0.03 0.22,0.09 0.12,0.12 0.12,0.32 0,0.44l-0.13 0.13 -0.56 -0.33 0.25 -0.25c0.06,-0.06 0.14,-0.09 0.22,-0.09z"/>
+  <path class="fil3" d="M44.78 281.33l1.17 0 -0.14 0.14 1.26 1.26c0.02,0.02 0.02,0.04 0.04,0.05l-2.21 -1.28 0.03 -0.03 -0.14 -0.14z"/>
+  <path class="fil3" d="M55.66 281.47l-0.14 -0.14 1.17 0 -0.14 0.14 1.26 1.26c0.12,0.12 0.12,0.32 0,0.45 -0.12,0.12 -0.32,0.12 -0.45,0l-1.26 -1.26 -1.26 1.26c-0.12,0.12 -0.32,0.12 -0.45,0 -0.12,-0.12 -0.12,-0.32 0,-0.45l1.26 -1.26z"/>
+  <path class="fil4" d="M13.62 7.93c-3.14,0 -5.69,2.55 -5.69,5.69 0,3.14 2.55,5.69 5.69,5.69 3.14,0 5.69,-2.55 5.69,-5.69 0,-3.14 -2.55,-5.69 -5.69,-5.69zm0 19.3c-7.51,0 -13.62,-6.11 -13.62,-13.62 0,-7.51 6.11,-13.62 13.62,-13.62 7.51,0 13.62,6.11 13.62,13.62 0,7.51 -6.11,13.62 -13.62,13.62z"/>
+ </g>
+</svg>
